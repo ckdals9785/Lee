@@ -3,8 +3,8 @@ package com.git;
 public class gitTest {
 
 	public static void main(String[] args) {
-		String git = "Ã³À½";
+		String git = "ì•ˆë…•";
 		System.out.println(git);
-		String git2 = "À¸¾Æ";
+		String git2 = "í•˜ì´";
 	}
 }
